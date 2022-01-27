@@ -1,2 +1,5 @@
 # biggas-project
-projetos iniciantes de programação.
+projetos jogo iniciante em python. </br>
+jogo em rpg text com sistema de combate basico.
+
+
