@@ -1,3 +1,6 @@
+
+##__Estrutura sequencial__<h1>
+
 1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.<br>
 2. Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].<br>
 3. Faça um Programa que peça dois números e imprima a soma.<br>
