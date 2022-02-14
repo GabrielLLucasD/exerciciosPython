@@ -1,8 +1,0 @@
-espada longa = 10 ad 37% de chance de tirar -2pontos de cv mas se 3/3 acerta 2 inimigos
-cajadada = 7 ad - 1 ponto de mana a cada ataque e 12% de chance de perder 1 cv mas acerta 2 inimigos se 2/3 ou 3/3 
-Maça = 10 ad 37% de chance de perder -2 cv e acerta 1 inimigo mas se 3/3 crita dando 3 a mais de dano
-
-
-cv dos inimigos = 30
-cv personagens = 30
-
