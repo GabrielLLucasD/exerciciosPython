@@ -5,7 +5,7 @@ def soma(x,y):
     print(x+y)
 
 def media(x,y,z,k):
-    mediana = ((x+y+z+k)//4)
+    mediana = round(((x+y+z+k)/4), 3)
     print("calculando media....")
     sleep(0.5)
     print(mediana)
@@ -38,7 +38,7 @@ def conversor_metro():
         Agora escreva o número desejado:
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     """)
-    n = int(input("-> "))
+    n = float(input("-> "))
 
     if unidade_inicial == 1:
         if unidade_final == 2:
